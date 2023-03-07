@@ -1,3 +1,3 @@
 # SUI
 
-- Published at `0x097fff8c7e1b99f5c4e7007b6af106f07dcbb75d`
+- Published at `0x384191ed0cebeaa712db12782d6eda7a4b7e8446`
